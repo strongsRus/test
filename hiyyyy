@@ -1,0 +1,16 @@
+<html>
+ <head>
+  <title>welcome to part 2</title>
+ </head>
+ <body bgcolor="#000000" text="#47FF00" vlink="#0086FF">
+  <h1><tt>Welcome!</tt></h1>
+  <p><tt>Hello and welcome to part two of the game! This next stage<br>
+   should be easy. Click the link below and download the image. It<br>
+   will take you to the next step.</tt></p>
+  <p><tt>Thank you for playing.</tt></p>
+  <img src="2.jpg" alt="5, no pass"></img> 
+ </body>
+ <body bgcolor="#000000" text="#000000">
+  <p><tt><br><br><br>If you have any questions, message me on Reddit: u/oernq</tt></p>
+ </body>
+</html>
